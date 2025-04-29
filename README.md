@@ -13,8 +13,7 @@ An AI-powered web application designed to assist students in achieving their aca
 
 - **Frontend**: React.js, HTML5, CSS3
 - **Backend**: Node.js, Express.js
-- **AI Services**: Azure Cognitive Services
-- **Authentication**: Firebase Authentication
+- **AI Services**: Azure Cognitive Services,chatgpt
 - **Database**: MongoDB
 
 ## 📸 Screenshots
@@ -27,10 +26,10 @@ An AI-powered web application designed to assist students in achieving their aca
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm 
 - MongoDB instance
 - Azure Cognitive Services API key
-- Firebase project credentials
+
 
 ### Installation
 
