@@ -26,5 +26,5 @@ yarn-error.log*
 #env
 .env
 /backend/.env
-
+/my-simple-app.zip
 /Personalized-learning-partner
